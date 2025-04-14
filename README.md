@@ -1,1 +1,1 @@
-# lloydsbank-atms-api
+atms-api
